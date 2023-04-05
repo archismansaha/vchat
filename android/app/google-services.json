@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "881263447241",
+    "project_id": "vchat-5d495",
+    "storage_bucket": "vchat-5d495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881263447241:android:3a2db87442ac123cded118",
+        "android_client_info": {
+          "package_name": "com.example.jitsy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881263447241-vnr7nsm89r42d66cpq13otc0qolmraaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCignFulRik-_IT-Y-LyY4yMYMYzZfH5lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881263447241-ipsr2j97b7d5mjdgih6m89m8fkp13ug6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881263447241-a7ma0hjcsclk0teq43j4gubo5rmo5pi9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vchat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
